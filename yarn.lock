@@ -423,6 +423,11 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
+edgedb@^0.20.7:
+  version "0.20.7"
+  resolved "https://registry.yarnpkg.com/edgedb/-/edgedb-0.20.7.tgz#741f2e43b4c13039829297e6e8e208d1303fef85"
+  integrity sha512-1p65KmYfQZfjl4W4aRBCznnt9ztYokSYdpW55lgS0lJKYvJYab8X1Ts8+pI3hPFof5WTBjEiEnyOmyrzVX0xkw==
+
 emoji-regex@^9.2.2:
   version "9.2.2"
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-9.2.2.tgz#840c8803b0d8047f4ff0cf963176b32d4ef3ed72"
